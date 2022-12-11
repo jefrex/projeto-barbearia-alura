@@ -8,3 +8,5 @@ Desenvolvido durante curso de "Criar suas primeiras páginas web" da Alura.
 - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
 - HTML5 e CSS3 parte 4: avançando no CSS
 
+Github Pages:
+https://jefrex.github.io/projeto-barbearia-alura/
